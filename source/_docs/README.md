@@ -1,7 +1,7 @@
 ---
 cover: .gitbook/assets/Help Center (1).svg
 coverY: 0
-coverHeight: 131
+coverHeight: 109
 layout:
   width: wide
   cover:
@@ -12,7 +12,7 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: true
   pagination:

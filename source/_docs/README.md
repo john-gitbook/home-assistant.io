@@ -6,3 +6,4 @@ coverHeight: 159
 
 # Page 1
 
+<div data-full-width="true"><figure><img src=".gitbook/assets/Help Center (1).svg" alt=""><figcaption></figcaption></figure></div>

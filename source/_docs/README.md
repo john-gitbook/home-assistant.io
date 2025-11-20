@@ -1,7 +1,7 @@
 ---
 cover: .gitbook/assets/Help Center (1).svg
 coverY: 0
-coverHeight: 54
+coverHeight: 81
 layout:
   width: default
   cover:
